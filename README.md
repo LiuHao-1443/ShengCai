@@ -39,7 +39,7 @@
 5. 修改 ./backend/config/local.yaml 配置文件，包括 MySQL 连接等，具体如图所示
   ![image](https://github.com/user-attachments/assets/32a5dadf-40f7-4bba-a2c2-c4b8dbbb0a69)
   ![image](https://github.com/user-attachments/assets/b782fc4a-e486-459c-b51b-51a3ab850527)
-6. 大模型使用为 DeepSeek，API Key 请参考官网申请，https://www.deepseek.com/
+6. 大模型使用为 DeepSeek，API Key 请参考官网申请，https://www.deepseek.com/，本项目全部跑完预计华为 400 万 Token
 7. 对于阶段一，参数配置好后可直接启动服务，Go 后端使用 nunu 脚手架，需要安装 nunu cli，安装方式请参考 https://github.com/go-nunu/nunu?tab=readme-ov-file#nunu-cli
 8. Go 后端启动方式，启动好后自动开始进行数据采集
    ```bash
