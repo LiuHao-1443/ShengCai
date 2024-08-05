@@ -56,7 +56,7 @@
    ```
 10. 访问地址，查看效果 http://127.0.0.1:5173/?sheet_id=N5Wts8V9Wh3gXJtyxPvcDbMZnJc
   ![image](https://github.com/user-attachments/assets/08e1dcc2-6d3b-4a89-96dd-16614f6bdf2f)
-11. 对于阶段二，需要结构影刀 RPA 和个人电子表格进行采集，影刀 RPA 配置链接
+11. 对于阶段二，需要结构影刀 RPA 和个人电子表格进行采集，影刀 RPA 配置链接 https://api.winrobot360.com/redirect/robot/share?inviteKey=603a74fba4732fcd
 12. 启动影刀 RPA，会自动将加密的电子表格内容拷贝到个人电子表格中，以方便采集，前置工作需要在浏览器中登录飞书以及输入加密电子表格的密码
 13. 重复 5-9 的步骤即可完成采集任务
 
